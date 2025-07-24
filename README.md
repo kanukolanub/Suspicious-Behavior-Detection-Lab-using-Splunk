@@ -76,9 +76,4 @@ Understanding attacker techniques — not just indicators — is critical for SO
 - Using MITRE ATT&CK as a guide for threat coverage
 - Bridging red and blue team thinking
 
----
-
-## 📬 Connect
-
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/) if you’re working on similar detection engineering or SOC projects!
 
